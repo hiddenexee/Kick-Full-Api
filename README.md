@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Kick Full Api </h1>
+  <h1> Kick.com Full Api </h1>
 </div>
 
 # Features:
